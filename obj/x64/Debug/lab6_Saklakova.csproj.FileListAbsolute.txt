@@ -1,0 +1,10 @@
+C:\lab6_Saklakova\Debug\lab6_Egorkina.exe
+C:\lab6_Saklakova\Debug\lab6_Egorkina.exe.config
+C:\lab6_Saklakova\lab6_Saklakova\obj\x64\Debug\lab6_Saklakova.csproj.AssemblyReference.cache
+C:\lab6_Saklakova\lab6_Saklakova\obj\x64\Debug\lab6_Saklakova.Form1.resources
+C:\lab6_Saklakova\lab6_Saklakova\obj\x64\Debug\lab6_Egorkina.Properties.Resources.resources
+C:\lab6_Saklakova\lab6_Saklakova\obj\x64\Debug\lab6_Saklakova.csproj.GenerateResource.cache
+C:\lab6_Saklakova\lab6_Saklakova\obj\x64\Debug\lab6_Saklakova.csproj.CoreCompileInputs.cache
+C:\lab6_Saklakova\lab6_Saklakova\obj\x64\Debug\lab6_Egorkina.exe
+C:\lab6_Saklakova\lab6_Saklakova\obj\x64\Debug\lab6_Egorkina.pdb
+C:\lab6_Saklakova\Debug\lab6_Egorkina.pdb
